@@ -1,10 +1,10 @@
 {
-    "version": "1.17.2",
+    "version": "1.17.3",
     "description": "Extensible email app with open tracking, link click tracking, contacts enrichment data and more",
     "homepage": "https://getmailspring.com/",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/Foundry376/Mailspring/releases/download/1.17.2/Mailspring-1.17.2-full.nupkg",
-    "hash": "sha1:86c851a34745dc281a8559824fc6687fe325a9cc",
+    "url": "https://github.com/Foundry376/Mailspring/releases/download/1.17.3/Mailspring-1.17.3-full.nupkg",
+    "hash": "1ea6d6af17e36250b742d6b756dd7f989a59585688f368db515e3813fa0f2957",
     "extract_dir": "lib\\net45",
     "bin": "Mailspring.exe",
     "shortcuts": [
